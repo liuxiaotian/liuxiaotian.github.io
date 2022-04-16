@@ -1,0 +1,3 @@
+[submodule "themes/lous"]
+	path = themes/lous
+	url = https://github.com/liuxiaotian/hexo-theme-lous.git
